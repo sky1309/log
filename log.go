@@ -18,10 +18,10 @@ var (
 )
 
 var levelPrefix = []string{
-	"[DEBUG] ",
-	"[INFO ] ",
-	"[WARN ] ",
-	"[ERROR] ",
+	"[D] ",
+	"[I] ",
+	"[W] ",
+	"[E] ",
 }
 
 type Logger struct {
